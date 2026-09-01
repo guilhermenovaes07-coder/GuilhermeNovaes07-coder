@@ -107,19 +107,27 @@ Também utilizo **Git e GitHub** para versionamento e organização dos meus pro
 
 ### 🚀 Projetos
 
-Durante minha formação na **FIAP**, venho desenvolvendo projetos acadêmicos e pessoais com foco em **desenvolvimento de sistemas, desenvolvimento web e resolução de problemas**.
+🦯 Bengala Inteligente — Tecnologia Assistiva
 
-Tenho trabalhado em projetos utilizando **Java, HTML, CSS, JavaScript, TypeScript, React, SQL, Oracle, Git e GitHub**, buscando sempre aplicar na prática os conhecimentos adquiridos.
+Dispositivo que transforma uma bengala convencional em ferramenta tecnológica de auxílio à locomoção para pessoas com deficiência visual. Utiliza sensores para detectar obstáculos próximos e alerta o usuário por meio de sinal sonoro e vibração, oferecendo diferentes formas de feedback.
 
+Foco: Tecnologia Assistiva, Acessibilidade, Inovação, Sensores
+Objetivo: Criar uma solução de baixo custo e aplicação prática, unindo eletrônica e software para aumentar autonomia e segurança na locomoção.
+Principais desafios: detecção eficiente de obstáculos, definição de distância de alerta, integração de sensores/componentes, foco na experiência do usuário.
+🌱 ClimaPlantio — FIAP Global Solution 2026/1
+
+Sistema de monitoramento agrícola desenvolvido pelo Grupo Dome, conectando dados de satélite (NASA/INPE) a produtores rurais por meio de cálculos de NDVI e alertas climáticos.
+
+Stack: CLI em Python, arquitetura Java (DDD — br.com.fiap), frontend em HTML/CSS/JS
+Entregas: aplicação Python, sistema Java, site (demo), documentação e apresentação em PowerPoint
+🌿 Soul Up — FIAP Challenge Next 2026
+
+Sprint em Java com arquitetura DDD para a plataforma Soul Up, um sistema de engajamento sustentável.
+
+Funcionalidades: pontos ECOA, Selos Verdes, créditos de carbono, avatar personalizado
+Stack: Java (DDD)
 ---
 
 ### 📚 Atualmente estudando
 
-* ⚛️ React
-* 🔷 TypeScript
-* 💻 Desenvolvimento FullStack
-* ☕ Java e Orientação a Objetos
-* 🗄️ SQL
-* 🔌 Desenvolvimento de APIs
-* 🧠 Estruturas de dados
-* 🔧 Git e GitHub
+<p> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/FullStack-6E40C9?style=for-the-badge&logo=stackshare&logoColor=white" alt="Desenvolvimento FullStack" /> <img src="https://img.shields.io/badge/Java%20%26%20OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java e Orientação a Objetos" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" alt="Desenvolvimento de APIs" /> <img src="https://img.shields.io/badge/Estruturas%20de%20Dados-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="Estruturas de dados" /> <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git e GitHub" /> </p>
