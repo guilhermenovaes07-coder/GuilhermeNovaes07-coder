@@ -150,14 +150,14 @@ alt="Tecnologias mais utilizadas"
 <tr>
 <td>
 <img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermenovaes07-coder&theme=discord_old_blurple&locale=pt-br" 
-alt="Resumo de Estatísticas"
+src="https://github-readme-stats.vercel.app/api?username=guilhermenovaes07-coder&show_icons=true&theme=tokyonight&locale=pt-br&custom_title=Estatísticas%20do%20GitHub%20de%20Guilherme%20Novaes" 
+alt="Estatísticas do GitHub"
 />
 </td>
 <td>
 <img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guilhermenovaes07-coder&theme=discord_old_blurple&locale=pt-br" 
-alt="Tecnologias mais usadas (commits)"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermenovaes07-coder&theme=tokyonight&locale=pt-br&custom_title=Tecnologias&langs_count=8" 
+alt="Tecnologias mais utilizadas"
 />
 </td>
 </tr>
