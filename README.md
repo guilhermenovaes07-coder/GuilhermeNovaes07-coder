@@ -6,7 +6,7 @@ Olá! Eu sou **Guilherme Novaes**, estudante de **Análise e Desenvolvimento de 
 
 Minha jornada na área de tecnologia é movida pela curiosidade de entender **como as coisas funcionam** e pela vontade de transformar problemas em soluções através do código.
 
-Tenho conhecimentos em **desenvolvimento web, programação, banco de dados e desenvolvimento de sistemas**, trabalhando com tecnologias como **Java, Python, JavaScript, TypeScript, React, HTML, CSS, SQL e PL/SQL**.
+Tenho conhecimentos em **desenvolvimento web, programação, banco de dados e desenvolvimento de sistemas**, trabalhando com tecnologias como **Java, Python, JavaScript, TypeScript, React, HTML, CSS, SQL e Oracle**.
 
 Também utilizo **Git e GitHub** para versionamento e organização dos meus projetos.
 
@@ -81,15 +81,6 @@ Também utilizo **Git e GitHub** para versionamento e organização dos meus pro
 
 <img 
  align="left" 
- alt="PHP" 
- title="PHP" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-
-<img 
- align="left" 
  alt="Oracle" 
  title="Oracle" 
  width="30px" 
@@ -134,14 +125,11 @@ Também utilizo **Git e GitHub** para versionamento e organização dos meus pro
 
 * Java
 * Python
-* PHP
 
 #### Banco de Dados
 
 * SQL
 * Oracle
-* PL/SQL
-* JDBC
 
 #### Ferramentas
 
@@ -154,11 +142,9 @@ Também utilizo **Git e GitHub** para versionamento e organização dos meus pro
 
 ### 🚀 Projetos
 
-Durante minha formação na **FIAP**, venho desenvolvendo projetos acadêmicos e pessoais com foco em desenvolvimento de sistemas e resolução de problemas.
+Durante minha formação na **FIAP**, venho desenvolvendo projetos acadêmicos e pessoais com foco em desenvolvimento de sistemas, desenvolvimento web e resolução de problemas.
 
-Entre os projetos estão aplicações utilizando **Java, HTML, CSS, JavaScript, SQL, Oracle e Git/GitHub**, além de projetos de desenvolvimento web e soluções voltadas para problemas reais.
-
-Busco sempre aplicar na prática os conhecimentos adquiridos e transformar cada projeto em uma oportunidade de aprendizado.
+Tenho trabalhado em projetos utilizando **Java, HTML, CSS, JavaScript, TypeScript, React, SQL, Oracle, Git e GitHub**, buscando sempre aplicar na prática os conhecimentos adquiridos.
 
 ---
 
@@ -168,7 +154,7 @@ Busco sempre aplicar na prática os conhecimentos adquiridos e transformar cada 
 * TypeScript
 * Desenvolvimento FullStack
 * Java e Orientação a Objetos
-* SQL e PL/SQL
+* SQL
 * Desenvolvimento de APIs
 * Estruturas de dados
 * Git e GitHub
