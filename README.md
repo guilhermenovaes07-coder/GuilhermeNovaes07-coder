@@ -146,16 +146,19 @@ alt="Tecnologias mais utilizadas"
 
 </p>
 
-<p align="left">
-
+<table>
+<tr>
+<td>
 <img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermenovaes07-coder&theme=discord_old_blurple" 
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermenovaes07-coder&theme=discord_old_blurple&locale=pt-br" 
 alt="Resumo de Estatísticas"
 />
-
+</td>
+<td>
 <img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guilhermenovaes07-coder&theme=discord_old_blurple" 
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guilhermenovaes07-coder&theme=discord_old_blurple&locale=pt-br" 
 alt="Tecnologias mais usadas (commits)"
 />
-
-</p>
+</td>
+</tr>
+</table>
