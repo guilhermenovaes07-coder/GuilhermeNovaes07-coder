@@ -105,60 +105,20 @@ Tenho trabalhado em projetos utilizando **Java, HTML, CSS, JavaScript, TypeScrip
 
 ### 📊 Estatísticas
 
-<p align="left">
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=guilhermenovaes07-coder&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<a href="https://github.com/guilhermenovaes07-coder">
 <img 
-  src="https://custom-icon-badges.demolab.com/github/stars/guilhermenovaes07-coder?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" 
-  alt="Estrelas"
-/>
-</a>
-
-<a href="https://github.com/guilhermenovaes07-coder?tab=followers">
-<img 
-  src="https://custom-icon-badges.demolab.com/github/followers/guilhermenovaes07-coder?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" 
-  alt="Seguidores"
-/>
-</a>
-
-<a href="https://github.com/guilhermenovaes07-coder?tab=repositories">
-<img 
-  src="https://custom-icon-badges.demolab.com/github/repos/guilhermenovaes07-coder?color=8B5CF6&labelColor=7C3AED&style=for-the-badge&logo=repo&label=Repositórios" 
-  alt="Repositórios"
-/>
-</a>
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermenovaes07-coder&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
 </p>
-
-<p align="left">
-
-<img 
-src="https://github-readme-stats.vercel.app/api?username=guilhermenovaes07-coder&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-height="180"
-alt="Estatísticas do GitHub"
-/>
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermenovaes07-coder&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-height="180"
-alt="Tecnologias mais utilizadas"
-/>
-
-</p>
-
-<table>
-<tr>
-<td>
-<img 
-src="https://github-readme-stats.vercel.app/api?username=guilhermenovaes07-coder&show_icons=true&theme=tokyonight&locale=pt-br&custom_title=Estatísticas%20do%20GitHub%20de%20Guilherme%20Novaes" 
-alt="Estatísticas do GitHub"
-/>
-</td>
-<td>
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermenovaes07-coder&theme=tokyonight&locale=pt-br&custom_title=Tecnologias&langs_count=8" 
-alt="Tecnologias mais utilizadas"
-/>
-</td>
-</tr>
-</table>
