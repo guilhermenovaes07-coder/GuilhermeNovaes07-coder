@@ -126,7 +126,7 @@ Sprint em Java com arquitetura DDD para a plataforma Soul Up, um sistema de enga
 
 Funcionalidades: pontos ECOA, Selos Verdes, créditos de carbono, avatar personalizado
 Stack: Java (DDD)
----
+---a
 
 ### 📚 Atualmente estudando
 
