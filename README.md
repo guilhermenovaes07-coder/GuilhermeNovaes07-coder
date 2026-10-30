@@ -16,8 +16,6 @@ Também utilizo **Git e GitHub** para versionamento e organização dos meus pro
 
 ### 📊 Estatísticas
 
-### 📊 Estatísticas
-
 <p align="center">
   <img height="200" alt="GitHub Stats" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
   <img height="200" alt="Linguagens" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
