@@ -35,6 +35,7 @@ Também utilizo **Git e GitHub** para versionamento e organização dos meus pro
 </p>
 
 <br clear="both" />
+
 ### 🔗 Conecte-se comigo
 
 <a href="https://www.linkedin.com/in/guilherme-novaes-115111278">
