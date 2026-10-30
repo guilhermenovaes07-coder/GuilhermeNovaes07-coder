@@ -90,25 +90,42 @@ Também utilizo **Git e GitHub** para versionamento e organização dos meus pro
 
 ### 🚀 Projetos
 
-🦯 Bengala Inteligente — Tecnologia Assistiva
+#### 🦯 Bengala Inteligente
+**Tecnologia Assistiva · Acessibilidade · Inovação**
 
-Dispositivo que transforma uma bengala convencional em ferramenta tecnológica de auxílio à locomoção para pessoas com deficiência visual. Utiliza sensores para detectar obstáculos próximos e alerta o usuário por meio de sinal sonoro e vibração, oferecendo diferentes formas de feedback.
+Dispositivo que transforma uma bengala convencional em uma ferramenta tecnológica de auxílio à locomoção para pessoas com deficiência visual. Sensores detectam obstáculos próximos, e o usuário é alertado por sinal sonoro e vibração.
 
-Foco: Tecnologia Assistiva, Acessibilidade, Inovação, Sensores
-Objetivo: Criar uma solução de baixo custo e aplicação prática, unindo eletrônica e software para aumentar autonomia e segurança na locomoção.
-Principais desafios: detecção eficiente de obstáculos, definição de distância de alerta, integração de sensores/componentes, foco na experiência do usuário.
-🌱 ClimaPlantio — FIAP Global Solution 2026/1
+- 🎯 **Objetivo:** criar uma solução de baixo custo e aplicação prática, unindo eletrônica e software para aumentar a autonomia e a segurança na locomoção.
+- ⚙️ **Funcionalidades:** detecção de obstáculos por sensores, alerta sonoro, alerta por vibração.
+- 🧩 **Desafios:** detecção eficiente de obstáculos, definição da distância de alerta, integração dos sensores e componentes, foco na experiência do usuário.
 
-Sistema de monitoramento agrícola desenvolvido pelo Grupo Dome, conectando dados de satélite (NASA/INPE) a produtores rurais por meio de cálculos de NDVI e alertas climáticos.
+![Sensores](https://img.shields.io/badge/Sensores-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Acessibilidade](https://img.shields.io/badge/Acessibilidade-6E40C9?style=for-the-badge)
 
-Stack: CLI em Python, arquitetura Java (DDD — br.com.fiap), frontend em HTML/CSS/JS
-Entregas: aplicação Python, sistema Java, site (demo), documentação e apresentação em PowerPoint
-🌿 Soul Up — FIAP Challenge Next 2026
+---
 
-Sprint em Java com arquitetura DDD para a plataforma Soul Up, um sistema de engajamento sustentável.
+#### 🌱 ClimaPlantio
+**FIAP Global Solution 2026/1 · Grupo Dome**
 
-Funcionalidades: pontos ECOA, Selos Verdes, créditos de carbono, avatar personalizado
-Stack: Java (DDD)
+Sistema de monitoramento agrícola que conecta dados de satélite (NASA/INPE) a produtores rurais, por meio de cálculos de NDVI e alertas climáticos.
+
+- 🎯 **Objetivo:** levar informação de satélite de forma simples para apoiar decisões no campo.
+- ⚙️ **Funcionalidades:** cálculo de NDVI, alertas climáticos, integração com dados da NASA e do INPE.
+- 📦 **Entregas:** aplicação Python, sistema Java, site (demo), documentação e apresentação em PowerPoint.
+- 🏗️ **Arquitetura:** CLI em Python, back-end Java em DDD (`br.com.fiap`) e front-end em HTML, CSS e JS.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+#### 🌿 Soul Up
+**FIAP Challenge Next 2026 · Grupo Dome**
+
+Sprint em Java com arquitetura DDD para
 ---
 
 ### 📚 Atualmente estudando
