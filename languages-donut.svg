@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220" viewBox="0 0 400 220">
+  <style>
+    text{font-family:'Segoe UI',Ubuntu,sans-serif;fill:#a9b1d6;font-size:13px}
+    .t{font-size:16px;font-weight:600;fill:#70a5fd}
+    .s{font-size:11px;fill:#6b7089}
+    .r{fill:none;stroke-width:22;animation:d 1s ease-out backwards}
+    .l{opacity:0;animation:f .5s ease-out forwards}
+    @keyframes d{from{stroke-dasharray:0 377}}
+    @keyframes f{to{opacity:1}}
+  </style>
+  <rect width="400" height="220" rx="10" fill="#1a1b27" stroke="#ffffff" stroke-opacity=".12"/>
+  <text x="25" y="35" class="t">Linguagens</text>
+
+  <g transform="rotate(-90 100 125)">
+    <circle cx="100" cy="125" r="60" class="r" stroke="#f89820" stroke-dasharray="189.9 187.1" stroke-dashoffset="0" style="animation-delay:.0s"/>
+    <circle cx="100" cy="125" r="60" class="r" stroke="#3178c6" stroke-dasharray="135.2 241.8" stroke-dashoffset="-191.9" style="animation-delay:.2s"/>
+    <circle cx="100" cy="125" r="60" class="r" stroke="#9b59b6" stroke-dasharray="25.1 351.9" stroke-dashoffset="-329.1" style="animation-delay:.4s"/>
+    <circle cx="100" cy="125" r="60" class="r" stroke="#e34c26" stroke-dasharray="9.3 367.7" stroke-dashoffset="-356.2" style="animation-delay:.6s"/>
+    <circle cx="100" cy="125" r="60" class="r" stroke="#f1e05a" stroke-dasharray="6.7 370.3" stroke-dashoffset="-367.5" style="animation-delay:.8s"/>
+  </g>
+  <text x="100" y="122" text-anchor="middle" class="s">Mais usadas</text>
+  <text x="100" y="140" text-anchor="middle" style="font-weight:600;fill:#c0caf5">5 linguagens</text>
+
+  <g class="l" style="animation-delay:.8s">
+    <circle cx="230" cy="75" r="5" fill="#f89820"/><text x="245" y="80">Java</text><text x="355" y="80" text-anchor="end">50.9%</text>
+  </g>
+  <g class="l" style="animation-delay:1s">
+    <circle cx="230" cy="105" r="5" fill="#3178c6"/><text x="245" y="110">TypeScript</text><text x="355" y="110" text-anchor="end">36.4%</text>
+  </g>
+  <g class="l" style="animation-delay:1.2s">
+    <circle cx="230" cy="135" r="5" fill="#9b59b6"/><text x="245" y="140">CSS</text><text x="355" y="140" text-anchor="end">7.2%</text>
+  </g>
+  <g class="l" style="animation-delay:1.4s">
+    <circle cx="230" cy="165" r="5" fill="#e34c26"/><text x="245" y="170">HTML</text><text x="355" y="170" text-anchor="end">3.0%</text>
+  </g>
+  <g class="l" style="animation-delay:1.6s">
+    <circle cx="230" cy="195" r="5" fill="#f1e05a"/><text x="245" y="200">JavaScript</text><text x="355" y="200" text-anchor="end">2.3%</text>
+  </g>
+</svg>
