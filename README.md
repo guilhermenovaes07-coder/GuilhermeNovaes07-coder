@@ -122,10 +122,22 @@ Sistema de monitoramento agrícola que conecta dados de satélite (NASA/INPE) a 
 
 ---
 
-#### 🌿 Soul Up
+#### 🌿 Soul Up — Avatar Inteligente
 **FIAP Challenge Next 2026 · Grupo Dome**
 
-Sprint em Java com arquitetura DDD para
+Plataforma de engajamento sustentável desenvolvida em Java com arquitetura DDD, em que o usuário é acompanhado por um avatar inteligente que evolui conforme suas ações sustentáveis.
+
+- 🤖 **Avatar inteligente:** personagem personalizado que acompanha a jornada do usuário na plataforma.
+- 🏆 **Gamificação:** pontos ECOA, Selos Verdes e créditos de carbono.
+- 🏗️ **Arquitetura:** Domain Driven Design em Java, com API RESTful em Spring Boot e banco Oracle.
+- 🗂️ **Camadas:** Model, DAO, BO e Resource.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![DDD](https://img.shields.io/badge/DDD-0A66C2?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
 ---
 
 ### 📚 Atualmente estudando
