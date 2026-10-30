@@ -16,23 +16,11 @@ Também utilizo **Git e GitHub** para versionamento e organização dos meus pro
 
 ### 📊 Estatísticas
 
-<p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    hspace="5"
-    src="https://github-readme-stats.vercel.app/api?username=guilhermenovaes07-coder&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-  <img
-    align="left"
-    alt="Top Languages"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermenovaes07-coder&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
+<p align="center">
+  <img src="./github-metrics.svg" alt="Estatísticas do GitHub" width="100%" />
 </p>
 
-<br clear="both" />
+---
 ---
 
 ### 🔗 Conecte-se comigo
