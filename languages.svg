@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220" viewBox="0 0 400 220">
+  <style>
+    text{font-family:'Segoe UI',Ubuntu,sans-serif;fill:#a9b1d6;font-size:13px}
+    .t{font-size:16px;font-weight:600;fill:#70a5fd}
+    .b{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:g 1.2s ease-out forwards}
+    .p{opacity:0;animation:f .6s ease-out forwards}
+    @keyframes g{to{transform:scaleX(1)}}
+    @keyframes f{to{opacity:1}}
+  </style>
+  <rect width="400" height="220" rx="10" fill="#1a1b27" stroke="#ffffff" stroke-opacity=".12"/>
+  <text x="25" y="35" class="t">Linguagens</text>
+
+  <text x="25" y="75">Java</text>
+  <rect x="110" y="65" width="220" height="10" rx="5" fill="#2a2b3d"/>
+  <rect x="110" y="65" width="112" height="10" rx="5" fill="#f89820" class="b" style="animation-delay:.1s"/>
+  <text x="342" y="75" class="p" style="animation-delay:1s">50.9%</text>
+
+  <text x="25" y="105">TypeScript</text>
+  <rect x="110" y="95" width="220" height="10" rx="5" fill="#2a2b3d"/>
+  <rect x="110" y="95" width="80" height="10" rx="5" fill="#3178c6" class="b" style="animation-delay:.3s"/>
+  <text x="342" y="105" class="p" style="animation-delay:1.2s">36.4%</text>
+
+  <text x="25" y="135">CSS</text>
+  <rect x="110" y="125" width="220" height="10" rx="5" fill="#2a2b3d"/>
+  <rect x="110" y="125" width="16" height="10" rx="5" fill="#9b59b6" class="b" style="animation-delay:.5s"/>
+  <text x="342" y="135" class="p" style="animation-delay:1.4s">7.2%</text>
+
+  <text x="25" y="165">HTML</text>
+  <rect x="110" y="155" width="220" height="10" rx="5" fill="#2a2b3d"/>
+  <rect x="110" y="155" width="7" height="10" rx="3" fill="#e34c26" class="b" style="animation-delay:.7s"/>
+  <text x="342" y="165" class="p" style="animation-delay:1.6s">3.0%</text>
+
+  <text x="25" y="195">JavaScript</text>
+  <rect x="110" y="185" width="220" height="10" rx="5" fill="#2a2b3d"/>
+  <rect x="110" y="185" width="5" height="10" rx="2" fill="#f1e05a" class="b" style="animation-delay:.9s"/>
+  <text x="342" y="195" class="p" style="animation-delay:1.8s">2.3%</text>
+</svg>
