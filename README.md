@@ -16,8 +16,11 @@ Também utilizo **Git e GitHub** para versionamento e organização dos meus pro
 
 ### 📊 Estatísticas
 
+### 📊 Estatísticas
+
 <p align="center">
-  <img src="./github-metrics.svg" alt="Estatísticas do GitHub" width="100%" />
+  <img src="./metrics-languages.svg" alt="Linguagens" width="360" />
+  <img src="./metrics-calendar.svg" alt="Contribuições" width="360" />
 </p>
 
 ### 🔗 Conecte-se comigo
