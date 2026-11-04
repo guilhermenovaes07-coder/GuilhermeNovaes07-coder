@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<img src="assets/h-sobre.svg" alt="cat sobre.txt" width="100%"/>
+<img src="assets/h-sobre.svg" alt="sobre" width="100%"/>
 
 Olá! Eu sou **Guilherme Novaes**, estudante de **Análise e Desenvolvimento de Sistemas na FIAP** e apaixonado por tecnologia, programação e desenvolvimento de soluções.
 
@@ -23,7 +23,7 @@ Tenho conhecimentos em **desenvolvimento web, programação, banco de dados e de
 
 <br/>
 
-<img src="assets/h-tecnologias.svg" alt="ls ./tecnologias" width="100%"/>
+<img src="assets/h-tecnologias.svg" alt="tecnologias" width="100%"/>
 
 <p align="center">
   <img src="assets/tech-stack.svg" alt="Tecnologias: HTML, CSS, JavaScript, TypeScript, React, Java, Python, Spring Boot, SQL, Oracle, Git e GitHub" width="100%"/>
@@ -50,7 +50,7 @@ Tenho conhecimentos em **desenvolvimento web, programação, banco de dados e de
 
 <br/>
 
-<img src="assets/h-projetos.svg" alt="ls ./projetos" width="100%"/>
+<img src="assets/h-projetos.svg" alt="projetos" width="100%"/>
 
 ### 🦯 Bengala Inteligente
 *Tecnologia Assistiva · Acessibilidade · Inovação*
