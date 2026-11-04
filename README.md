@@ -2,6 +2,14 @@
   <img src="assets/banner.svg" alt="Banner: Guilherme Novaes, Desenvolvedor FullStack" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=guilhermenovaes07-coder&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41&dates=00aa2b" alt="Sequência de contribuições" height="140"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermenovaes07-coder&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true&height=260&custom_title=Atividade%20dos%20%C3%BAltimos%2031%20dias" alt="Gráfico de atividade dos últimos 31 dias" width="85%"/>
+</p>
+
 # Guilherme Novaes 👨🏻‍💻
 
 `Desenvolvedor FullStack` · `Estudante de ADS na FIAP`
@@ -122,16 +130,6 @@ Plataforma de engajamento sustentável com um avatar inteligente que acompanha o
 <p align="center">
   <img src="profile-summary-card-output/merko/3-stats.svg" alt="Estatísticas do GitHub" height="190"/>
   <img src="profile-summary-card-output/merko/2-most-commit-language.svg" alt="Linguagens mais usadas" height="190"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=guilhermenovaes07-coder&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41&dates=00aa2b" alt="Sequência de contribuições" width="99%"/>
-</p>
-
-## `> tail -f activity.log`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermenovaes07-coder&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true" alt="Gráfico de atividade dos últimos 31 dias" width="99%"/>
 </p>
 
 <p align="center"><sub>[ok] Cards atualizados automaticamente todos os dias.</sub></p>
