@@ -32,7 +32,7 @@ Tenho conhecimentos em **desenvolvimento web, programação, banco de dados e de
 ## `> ls ./tech-stack`
 
 <p align="center">
-  <img src="assets/tech-stack.svg" alt="Tecnologias: HTML, CSS, JavaScript, TypeScript, React, Java, Python, Spring Boot, SQL, Oracle, Git e GitHub" width="100%"/>
+  <img src="assets/assets/tech-stack.svg" alt="Tecnologias: HTML, CSS, JavaScript, TypeScript, React, Java, Python, Spring Boot, SQL, Oracle, Git e GitHub" width="100%"/>
 </p>
 
 ---
@@ -120,8 +120,8 @@ Plataforma de engajamento sustentável com um avatar inteligente que acompanha o
 ## `> git log --stats`
 
 <p align="center">
-  <img src="profile-summary-card-output/merko/3-stats.svg" alt="Estatísticas do GitHub" width="49%"/>
-  <img src="languages-donut.svg" alt="Linguagens mais usadas" width="49%"/>
+  <img src="profile-summary-card-output/merko/3-stats.svg" alt="Estatísticas do GitHub" height="190"/>
+  <img src="profile-summary-card-output/merko/2-most-commit-language.svg" alt="Linguagens mais usadas" height="190"/>
 </p>
 
 <p align="center">
