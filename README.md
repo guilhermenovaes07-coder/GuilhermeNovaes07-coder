@@ -17,7 +17,7 @@
 
 ---
 
-## `> cat sobre.txt`
+--- sobre ---
 
 Olá! Eu sou **Guilherme Novaes**, estudante de **Análise e Desenvolvimento de Sistemas na FIAP** e apaixonado por tecnologia, programação e desenvolvimento de soluções.
 
@@ -29,7 +29,7 @@ Tenho conhecimentos em **desenvolvimento web, programação, banco de dados e de
 
 ---
 
-## `> ls ./tech-stack`
+---- tecnologias ----
 
 <p align="center">
   <img src="assets/tech-stack.svg" alt="Tecnologias: HTML, CSS, JavaScript, TypeScript, React, Java, Python, Spring Boot, SQL, Oracle, Git e GitHub" width="100%"/>
@@ -37,7 +37,7 @@ Tenho conhecimentos em **desenvolvimento web, programação, banco de dados e de
 
 ---
 
-## `> git log --stats`
+git log
 
 <p align="center">
   <img src="assets/stats.svg" alt="Estatísticas do GitHub" width="49%"/>
@@ -48,7 +48,6 @@ Tenho conhecimentos em **desenvolvimento web, programação, banco de dados e de
   <img src="assets/streak.svg" alt="Sequência de contribuições" width="99%"/>
 </p>
 
-## `> tail -f activity.log`
 
 <p align="center">
   <img src="assets/activity.svg" alt="Gráfico de atividade dos últimos 31 dias" width="99%"/>
@@ -58,9 +57,9 @@ Tenho conhecimentos em **desenvolvimento web, programação, banco de dados e de
 
 ---
 
-## `> ls ./projetos`
+---- projetos -------
 
-### 🦯 Bengala Inteligente
+🦯 Bengala Inteligente
 `Tecnologia Assistiva` · `Acessibilidade` · `Inovação`
 
 Dispositivo que transforma uma bengala convencional em uma ferramenta tecnológica de auxílio à locomoção para pessoas com deficiência visual. Sensores detectam obstáculos próximos, e o usuário é alertado por sinal sonoro e vibração.
@@ -74,7 +73,7 @@ Dispositivo que transforma uma bengala convencional em uma ferramenta tecnológi
 
 ---
 
-### 🌱 ClimaPlantio
+🌱 ClimaPlantio
 `FIAP Global Solution 2026/1` · `Grupo Dome`
 
 Sistema de monitoramento agrícola que conecta dados de satélite (NASA/INPE) a produtores rurais, por meio de cálculos de NDVI e alertas climáticos.
@@ -92,7 +91,7 @@ Sistema de monitoramento agrícola que conecta dados de satélite (NASA/INPE) a 
 
 ---
 
-### 🌿 Soul Up — Avatar Inteligente
+🌿 Soul Up — Avatar Inteligente
 `FIAP Challenge Next 2026` · `Grupo Dome`
 
 Plataforma de engajamento sustentável com um avatar inteligente que acompanha o usuário em sua jornada. O projeto é multidisciplinar e reúne back-end, front-end, banco de dados e scripts em uma única solução.
@@ -113,7 +112,7 @@ Plataforma de engajamento sustentável com um avatar inteligente que acompanha o
 
 ---
 
-## `> ./estudando --now`
+----- Complementos que eu sei -----
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff41" alt="HTML5" />
