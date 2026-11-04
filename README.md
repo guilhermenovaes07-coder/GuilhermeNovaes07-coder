@@ -2,11 +2,7 @@
   <img src="assets/banner.svg" alt="Banner: Guilherme Novaes, Desenvolvedor FullStack" width="100%"/>
 </p>
 
-Guilherme Novaes 👨🏻‍💻
-
-`Desenvolvedor FullStack` · `Estudante de ADS na FIAP`
-
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/guilherme-novaes-115111278">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41" alt="LinkedIn"/>
   </a>
@@ -15,9 +11,7 @@ Guilherme Novaes 👨🏻‍💻
   </a>
 </p>
 
----
-
---- sobre ---
+<img src="assets/h-sobre.svg" alt="cat sobre.txt" width="100%"/>
 
 Olá! Eu sou **Guilherme Novaes**, estudante de **Análise e Desenvolvimento de Sistemas na FIAP** e apaixonado por tecnologia, programação e desenvolvimento de soluções.
 
@@ -27,17 +21,17 @@ Tenho conhecimentos em **desenvolvimento web, programação, banco de dados e de
 
 🎯 Meu objetivo é crescer profissionalmente como desenvolvedor, adquirir experiência em projetos reais e contribuir para a criação de soluções eficientes e inovadoras.
 
----
+<br/>
 
----- tecnologias ----
+<img src="assets/h-tecnologias.svg" alt="ls ./tecnologias" width="100%"/>
 
 <p align="center">
   <img src="assets/tech-stack.svg" alt="Tecnologias: HTML, CSS, JavaScript, TypeScript, React, Java, Python, Spring Boot, SQL, Oracle, Git e GitHub" width="100%"/>
 </p>
 
----
+<br/>
 
-GIT log
+<img src="assets/h-stats.svg" alt="git log --stats" width="100%"/>
 
 <p align="center">
   <img src="assets/stats.svg" alt="Estatísticas do GitHub" width="49%"/>
@@ -48,19 +42,18 @@ GIT log
   <img src="assets/streak.svg" alt="Sequência de contribuições" width="99%"/>
 </p>
 
-
 <p align="center">
-  <img src="assets/activity.svg" alt="Gráfico de atividade dos últimos 31 dias" width="99%"/>
+  <img src="assets/activity.svg" alt="Gráfico de atividade do último ano" width="99%"/>
 </p>
 
 <p align="center"><sub>[ok] Cards atualizados automaticamente todos os dias.</sub></p>
 
----
+<br/>
 
----- projetos -------
+<img src="assets/h-projetos.svg" alt="ls ./projetos" width="100%"/>
 
-🦯 Bengala Inteligente
-`Tecnologia Assistiva` · `Acessibilidade` · `Inovação`
+### 🦯 Bengala Inteligente
+*Tecnologia Assistiva · Acessibilidade · Inovação*
 
 Dispositivo que transforma uma bengala convencional em uma ferramenta tecnológica de auxílio à locomoção para pessoas com deficiência visual. Sensores detectam obstáculos próximos, e o usuário é alertado por sinal sonoro e vibração.
 
@@ -71,10 +64,10 @@ Dispositivo que transforma uma bengala convencional em uma ferramenta tecnológi
 ![Sensores](https://img.shields.io/badge/Sensores-000000?style=for-the-badge&logo=arduino&logoColor=00ff41)
 ![Acessibilidade](https://img.shields.io/badge/Acessibilidade-000000?style=for-the-badge&logoColor=00ff41)
 
----
+<br/>
 
-🌱 ClimaPlantio
-`FIAP Global Solution 2026/1` · `Grupo Dome`
+### 🌱 ClimaPlantio
+*FIAP Global Solution 2026/1 · Grupo Dome*
 
 Sistema de monitoramento agrícola que conecta dados de satélite (NASA/INPE) a produtores rurais, por meio de cálculos de NDVI e alertas climáticos.
 
@@ -89,10 +82,10 @@ Sistema de monitoramento agrícola que conecta dados de satélite (NASA/INPE) a 
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff41)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41)
 
----
+<br/>
 
-🌿 Soul Up — Avatar Inteligente
-`FIAP Challenge Next 2026` · `Grupo Dome`
+### 🌿 Soul Up — Avatar Inteligente
+*FIAP Challenge Next 2026 · Grupo Dome*
 
 Plataforma de engajamento sustentável com um avatar inteligente que acompanha o usuário em sua jornada. O projeto é multidisciplinar e reúne back-end, front-end, banco de dados e scripts em uma única solução.
 
@@ -110,27 +103,21 @@ Plataforma de engajamento sustentável com um avatar inteligente que acompanha o
 ![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=00ff41)
 ![DDD](https://img.shields.io/badge/DDD-000000?style=for-the-badge&logoColor=00ff41)
 
----
+<br/>
 
------ Complementos que eu sei -----
+<img src="assets/h-complementos.svg" alt="complementos --sei" width="100%"/>
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff41" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff41" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00ff41" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00ff41" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=00ff41" alt="Vite" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00ff41" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00ff41" alt="Node.js" />
   <img src="https://img.shields.io/badge/FullStack-000000?style=for-the-badge&logo=stackshare&logoColor=00ff41" alt="Desenvolvimento FullStack" />
   <img src="https://img.shields.io/badge/Java_%26_OOP-000000?style=for-the-badge&logo=openjdk&logoColor=00ff41" alt="Java e Orientação a Objetos" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41" alt="Python" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00ff41" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=00ff41" alt="Vite" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00ff41" alt="Node.js" />
   <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00ff41" alt="Pandas" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff41" alt="SQL" />
-  <img src="https://img.shields.io/badge/Manipula%C3%A7%C3%A3o_de_Dados-000000?style=for-the-badge&logo=pandas&logoColor=00ff41" alt="Manipulação de Dados" />
   <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=swagger&logoColor=00ff41" alt="REST API" />
   <img src="https://img.shields.io/badge/APIs-000000?style=for-the-badge&logo=fastapi&logoColor=00ff41" alt="Desenvolvimento de APIs" />
+  <img src="https://img.shields.io/badge/Manipula%C3%A7%C3%A3o_de_Dados-000000?style=for-the-badge&logo=pandas&logoColor=00ff41" alt="Manipulação de Dados" />
   <img src="https://img.shields.io/badge/Estruturas_de_Dados-000000?style=for-the-badge&logo=leetcode&logoColor=00ff41" alt="Estruturas de dados" />
-  <img src="https://img.shields.io/badge/Git_%26_GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41" alt="Git e GitHub" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=100&section=footer" width="100%"/>
