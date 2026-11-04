@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=220&section=header&text=Guilherme%20Novaes&fontColor=00ff41&fontSize=52&fontAlignY=40&desc=root@fiap:~%23%20whoami&descSize=20&descAlignY=62" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=640&lines=%3E+Desenvolvedor+FullStack;%3E+Estudante+de+ADS+na+FIAP;%3E+Java+%7C+Python+%7C+React+%7C+Oracle;%3E+Transformando+problemas+em+c%C3%B3digo." alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+Desenvolvedor+FullStack;%3E+Estudante+de+ADS+na+FIAP;%3E+Java+%7C+Python+%7C+React+%7C+Oracle;%3E+Transformando+problemas+em+c%C3%B3digo" alt="typing"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/guilherme-novaes-115111278"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41"/></a>
 <a href="https://github.com/guilhermenovaes07-coder"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41"/></a>
@@ -37,23 +37,6 @@ Tenho conhecimentos em **desenvolvimento web, programação, banco de dados e de
 
 ---
 
-## `> git log --stats`
-
-<p align="center">
-  <img height="200" alt="GitHub Stats" src="./profile-summary-card-output/merko/3-stats.svg" />
-  <img height="200" alt="Linguagens" src="./languages-donut.svg" />
-</p>
-
-<p align="center">
-  <img alt="Streak" src="https://streak-stats.demolab.com?user=guilhermenovaes07-coder&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41&dates=00aa2b" />
-</p>
-
-<p align="center">
-  <img alt="Contribuições" src="https://raw.githubusercontent.com/guilhermenovaes07-coder/guilhermenovaes07-coder/output/contribuicoes.svg" width="100%" />
-</p>
-
----
-
 ## `> ls ./tech-stack`
 
 <p align="center">
@@ -64,12 +47,30 @@ Tenho conhecimentos em **desenvolvimento web, programação, banco de dados e de
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00ff41" alt="React" />
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00ff41" alt="Java" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41" alt="Python" />
+  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=00ff41" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff41" alt="SQL" />
   <img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=00ff41" alt="Oracle" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41" alt="GitHub" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=00ff41" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00ff41" alt="Visual Studio Code" />
+</p>
+
+---
+
+## `> git log --stats`
+
+<p align="center">
+  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=guilhermenovaes07-coder&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41&ring_color=00ff41" />
+  <img height="170" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermenovaes07-coder&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41" />
+</p>
+
+<p align="center">
+  <img alt="Streak" src="https://streak-stats.demolab.com?user=guilhermenovaes07-coder&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41&dates=00aa2b" />
+</p>
+
+<p align="center">
+  <img alt="Atividade" width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermenovaes07-coder&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true" />
 </p>
 
 ---
