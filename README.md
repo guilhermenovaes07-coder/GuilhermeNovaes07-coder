@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" alt="Banner: Guilherme Novaes, Desenvolvedor FullStack" width="100%"/>
 </p>
 
-# Guilherme Novaes 👨🏻‍💻
+Guilherme Novaes 👨🏻‍💻
 
 `Desenvolvedor FullStack` · `Estudante de ADS na FIAP`
 
