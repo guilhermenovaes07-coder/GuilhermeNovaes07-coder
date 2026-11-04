@@ -37,7 +37,7 @@ Tenho conhecimentos em **desenvolvimento web, programação, banco de dados e de
 
 ---
 
-git log
+GIT log
 
 <p align="center">
   <img src="assets/stats.svg" alt="Estatísticas do GitHub" width="49%"/>
