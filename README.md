@@ -1,111 +1,97 @@
-# 👨🏻‍💻 Guilherme Novaes
+<div align="center">
 
-**`Desenvolvedor FullStack`**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=220&section=header&text=Guilherme%20Novaes&fontColor=00ff41&fontSize=52&fontAlignY=40&desc=root@fiap:~%23%20whoami&descSize=20&descAlignY=62" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=640&lines=%3E+Desenvolvedor+FullStack;%3E+Estudante+de+ADS+na+FIAP;%3E+Java+%7C+Python+%7C+React+%7C+Oracle;%3E+Transformando+problemas+em+c%C3%B3digo." alt="typing"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/guilherme-novaes-115111278"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41"/></a>
+<a href="https://github.com/guilhermenovaes07-coder"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41"/></a>
+
+</div>
+
+---
+
+## `> cat sobre.txt`
+
+```bash
+$ whoami
+guilherme novaes
+
+$ cat /etc/profile
+cargo   : Desenvolvedor FullStack
+curso   : Análise e Desenvolvimento de Sistemas (FIAP)
+squad   : Grupo Dome
+foco    : web, programação, banco de dados, sistemas
+status  : online
+```
 
 Olá! Eu sou **Guilherme Novaes**, estudante de **Análise e Desenvolvimento de Sistemas na FIAP** e apaixonado por tecnologia, programação e desenvolvimento de soluções.
 
-Minha jornada na área de tecnologia é movida pela curiosidade de entender **como as coisas funcionam** e pela vontade de transformar problemas em soluções através do código.
+Minha jornada é movida pela curiosidade de entender **como as coisas funcionam** e pela vontade de transformar problemas em soluções através do código.
 
-Tenho conhecimentos em **desenvolvimento web, programação, banco de dados e desenvolvimento de sistemas**, trabalhando com tecnologias como **Java, Python, JavaScript, TypeScript, React, HTML, CSS, SQL e Oracle**.
+Tenho conhecimentos em **desenvolvimento web, programação, banco de dados e desenvolvimento de sistemas**, trabalhando com **Java, Python, JavaScript, TypeScript, React, HTML, CSS, SQL e Oracle**. Também utilizo **Git e GitHub** para versionamento e organização dos meus projetos.
 
-Também utilizo **Git e GitHub** para versionamento e organização dos meus projetos.
-
-🎯 Meu objetivo é crescer profissionalmente como desenvolvedor, adquirir experiência em projetos reais e contribuir para a criação de soluções eficientes e inovadoras.
+`> objetivo`: crescer profissionalmente como desenvolvedor, adquirir experiência em projetos reais e contribuir para a criação de soluções eficientes e inovadoras.
 
 ---
 
-### 📊 Estatísticas
+## `> git log --stats`
 
 <p align="center">
-  <img height="200" alt="GitHub Stats" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="200" alt="GitHub Stats" src="./profile-summary-card-output/merko/3-stats.svg" />
   <img height="200" alt="Linguagens" src="./languages-donut.svg" />
 </p>
 
-### 🔗 Conecte-se comigo
+<p align="center">
+  <img alt="Streak" src="https://streak-stats.demolab.com?user=guilhermenovaes07-coder&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41&dates=00aa2b" />
+</p>
 
-<a href="https://www.linkedin.com/in/guilherme-novaes-115111278">
-  <img 
-    alt="LinkedIn" 
-    title="LinkedIn" 
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-  />
-</a>
+<p align="center">
+  <img alt="Contribuições" src="https://raw.githubusercontent.com/guilhermenovaes07-coder/guilhermenovaes07-coder/output/contribuicoes.svg" width="100%" />
+</p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## `> ls ./tech-stack`
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-<img align="left" alt="Oracle" title="Oracle" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
-
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
-<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-
-<br clear="both"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff41" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff41" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00ff41" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00ff41" alt="React" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00ff41" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff41" alt="SQL" />
+  <img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=00ff41" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41" alt="GitHub" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=00ff41" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00ff41" alt="Visual Studio Code" />
+</p>
 
 ---
 
-### 💻 Tecnologias
+## `> ls ./projetos`
 
-#### 🎨 Front-end
-
-* HTML5
-* CSS3
-* JavaScript
-* TypeScript
-* React
-
-#### ⚙️ Back-end
-
-* Java
-* Python
-
-#### 🗄️ Banco de Dados
-
-* SQL
-* Oracle
-
-#### 🛠️ Ferramentas
-
-* Git
-* GitHub
-* IntelliJ IDEA
-* Visual Studio Code
-
----
-
-### 🚀 Projetos
-
-#### 🦯 Bengala Inteligente
-**Tecnologia Assistiva · Acessibilidade · Inovação**
+### 🦯 Bengala Inteligente
+`Tecnologia Assistiva` · `Acessibilidade` · `Inovação`
 
 Dispositivo que transforma uma bengala convencional em uma ferramenta tecnológica de auxílio à locomoção para pessoas com deficiência visual. Sensores detectam obstáculos próximos, e o usuário é alertado por sinal sonoro e vibração.
 
-- 🎯 **Objetivo:** criar uma solução de baixo custo e aplicação prática, unindo eletrônica e software para aumentar a autonomia e a segurança na locomoção.
+- 🎯 **Objetivo:** solução de baixo custo e aplicação prática, unindo eletrônica e software para aumentar a autonomia e a segurança na locomoção.
 - ⚙️ **Funcionalidades:** detecção de obstáculos por sensores, alerta sonoro, alerta por vibração.
 - 🧩 **Desafios:** detecção eficiente de obstáculos, definição da distância de alerta, integração dos sensores e componentes, foco na experiência do usuário.
 
-![Sensores](https://img.shields.io/badge/Sensores-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Acessibilidade](https://img.shields.io/badge/Acessibilidade-6E40C9?style=for-the-badge)
+![Sensores](https://img.shields.io/badge/Sensores-000000?style=for-the-badge&logo=arduino&logoColor=00ff41)
+![Acessibilidade](https://img.shields.io/badge/Acessibilidade-000000?style=for-the-badge&logoColor=00ff41)
 
 ---
 
-#### 🌱 ClimaPlantio
-**FIAP Global Solution 2026/1 · Grupo Dome**
+### 🌱 ClimaPlantio
+`FIAP Global Solution 2026/1` · `Grupo Dome`
 
 Sistema de monitoramento agrícola que conecta dados de satélite (NASA/INPE) a produtores rurais, por meio de cálculos de NDVI e alertas climáticos.
 
@@ -114,18 +100,18 @@ Sistema de monitoramento agrícola que conecta dados de satélite (NASA/INPE) a 
 - 📦 **Entregas:** aplicação Python, sistema Java, site (demo), documentação e apresentação em PowerPoint.
 - 🏗️ **Arquitetura:** CLI em Python, back-end Java em DDD (`br.com.fiap`) e front-end em HTML, CSS e JS.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00ff41)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff41)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff41)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41)
 
 ---
 
-#### 🌿 Soul Up — Avatar Inteligente
-**FIAP Challenge Next 2026 · Grupo Dome**
+### 🌿 Soul Up — Avatar Inteligente
+`FIAP Challenge Next 2026` · `Grupo Dome`
 
-Plataforma de engajamento sustentável com um avatar inteligente que acompanha o usuário em sua jornada. O projeto é multidisciplinar e reúne back-end, front-end, banco de dados e scripts em uma única solução.
+Plataforma de engajamento sustentável com um avatar inteligente que acompanha o usuário em sua jornada. Projeto multidisciplinar que reúne back-end, front-end, banco de dados e scripts em uma única solução.
 
 - 🤖 **Avatar inteligente:** personagem personalizado que acompanha o usuário na plataforma.
 - 🏆 **Gamificação:** pontos ECOA, Selos Verdes e créditos de carbono.
@@ -134,33 +120,36 @@ Plataforma de engajamento sustentável com um avatar inteligente que acompanha o
 - 🗄️ **Banco de dados:** modelagem e script DDL em Oracle.
 - 🐍 **Python:** módulo em Python da mesma solução.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![DDD](https://img.shields.io/badge/DDD-0A66C2?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00ff41)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=00ff41)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00ff41)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
+![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=00ff41)
+![DDD](https://img.shields.io/badge/DDD-000000?style=for-the-badge&logoColor=00ff41)
 
 ---
-### 📚 Atualmente estudando
+
+## `> ./estudando --now`
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FullStack-6E40C9?style=for-the-badge&logo=stackshare&logoColor=white" alt="Desenvolvimento FullStack" />
-  <img src="https://img.shields.io/badge/Java%20%26%20OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java e Orientação a Objetos" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Manipula%C3%A7%C3%A3o%20de%20Dados-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Manipulação de Dados" />
-  <img src="https://img.shields.io/badge/REST%20API-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="REST API" />
-  <img src="https://img.shields.io/badge/APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" alt="Desenvolvimento de APIs" />
-  <img src="https://img.shields.io/badge/Estruturas%20de%20Dados-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="Estruturas de dados" />
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git e GitHub" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff41" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff41" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00ff41" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00ff41" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=00ff41" alt="Vite" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00ff41" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00ff41" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FullStack-000000?style=for-the-badge&logo=stackshare&logoColor=00ff41" alt="Desenvolvimento FullStack" />
+  <img src="https://img.shields.io/badge/Java_%26_OOP-000000?style=for-the-badge&logo=openjdk&logoColor=00ff41" alt="Java e Orientação a Objetos" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00ff41" alt="Pandas" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff41" alt="SQL" />
+  <img src="https://img.shields.io/badge/Manipula%C3%A7%C3%A3o_de_Dados-000000?style=for-the-badge&logo=pandas&logoColor=00ff41" alt="Manipulação de Dados" />
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=swagger&logoColor=00ff41" alt="REST API" />
+  <img src="https://img.shields.io/badge/APIs-000000?style=for-the-badge&logo=fastapi&logoColor=00ff41" alt="Desenvolvimento de APIs" />
+  <img src="https://img.shields.io/badge/Estruturas_de_Dados-000000?style=for-the-badge&logo=leetcode&logoColor=00ff41" alt="Estruturas de dados" />
+  <img src="https://img.shields.io/badge/Git_%26_GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41" alt="Git e GitHub" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=100&section=footer" width="100%"/>
