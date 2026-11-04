@@ -186,27 +186,59 @@ def streak_card(days):
     return shell(840, 164, "Sequência de contribuições", body)
 
 
+MESES = ["jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez"]
+
+
+def weekly(days):
+    days = days[-364:]
+    buckets = []
+    for i in range(len(days) - 1, -1, -7):
+        chunk = days[max(0, i - 6): i + 1]
+        buckets.append((chunk[0][0], sum(c for _, c in chunk)))
+    return buckets[::-1]
+
+
 def activity_card(days):
-    last = days[-31:]
-    vals = [c for _, c in last]
+    wk = weekly(days)
+    vals = [v for _, v in wk]
+    n = len(wk)
     ymax = max(4, math.ceil(max(vals) / 4) * 4)
     x0, x1, y0, y1 = 56, 810, 66, 196
-    n = len(last)
     pts = [(x0 + i * (x1 - x0) / (n - 1), y1 - v * (y1 - y0) / ymax) for i, v in enumerate(vals)]
-    body = ""
+    sweep, hold = 14, 5
+    total = sweep + hold
+    kt = sweep / total
+    xs, xe = x0 - 12, x1 + 12
+    grid = ""
     for k in range(0, 5):
         v = ymax * k / 4
         y = y1 - v * (y1 - y0) / ymax
-        body += f'<line x1="{x0}" y1="{y:.1f}" x2="{x1}" y2="{y:.1f}" stroke="{G}" stroke-opacity="0.12" stroke-dasharray="3 5"/>'
-        body += f'<text class="t" x="{x0-10}" y="{y+4:.1f}" font-size="10" fill="{M}" text-anchor="end">{v:g}</text>'
+        grid += f'<line x1="{x0}" y1="{y:.1f}" x2="{x1}" y2="{y:.1f}" stroke="{G}" stroke-opacity="0.12" stroke-dasharray="3 5"/>'
+        grid += f'<text class="t" x="{x0-10}" y="{y+4:.1f}" font-size="10" fill="{M}" text-anchor="end">{v:g}</text>'
+    prev = None
+    for (d, v), (x, y) in zip(wk, pts):
+        m = date.fromisoformat(d).month
+        if m != prev:
+            grid += f'<text class="t" x="{x:.1f}" y="{y1+18}" font-size="10" fill="{M}" text-anchor="middle">{MESES[m-1]}</text>'
+            prev = m
     line = " ".join(f"{'M' if i == 0 else 'L'}{x:.1f} {y:.1f}" for i, (x, y) in enumerate(pts))
-    body += f'<path d="{line} L{pts[-1][0]:.1f} {y1} L{pts[0][0]:.1f} {y1} Z" fill="url(#ar)"/>'
-    body += f'<path class="ln" pathLength="1" d="{line}" fill="none" stroke="{G}" stroke-width="2.5" stroke-linejoin="round"/>'
-    for (x, y), (d, c) in zip(pts, last):
-        body += f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3.5" fill="#000000" stroke="{G}" stroke-width="1.8"/>'
-    for i in range(0, n, 3):
-        body += f'<text class="t" x="{pts[i][0]:.1f}" y="{y1+18}" font-size="10" fill="{M}" text-anchor="middle">{fmt(last[i][0])}</text>'
-    return shell(840, 232, "Atividade nos últimos 31 dias", body)
+    chart = f'<path d="{line} L{pts[-1][0]:.1f} {y1} L{pts[0][0]:.1f} {y1} Z" fill="url(#ar)"/>'
+    chart += f'<path d="{line}" fill="none" stroke="{G}" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>'
+    for x, y in pts:
+        chart += f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3" fill="#000000" stroke="{G}" stroke-width="1.6"/>'
+    full = xe - xs
+    clip = (f'<clipPath id="rv"><rect x="{xs}" y="40" width="0" height="190">'
+            f'<animate attributeName="width" values="0;{full};{full}" keyTimes="0;{kt:.4f};1" dur="{total}s" repeatCount="indefinite"/>'
+            f'</rect></clipPath>')
+    times = [0.0] + [kt * (x - xs) / full for x, _ in pts] + [1.0]
+    places = [pts[0]] + pts + [pts[-1]]
+    kts = ";".join(f"{t:.4f}" for t in times)
+    vls = ";".join(f"{x:.1f} {y:.1f}" for x, y in places)
+    marker = (f'<g><animateTransform attributeName="transform" type="translate" values="{vls}" keyTimes="{kts}" dur="{total}s" repeatCount="indefinite"/>'
+              f'<circle r="11" fill="{G}" opacity="0.25" class="pu"/><circle r="5.5" fill="{G}"/><circle r="2" fill="#ffffff"/></g>')
+    right = f'<text class="t" x="810" y="36" font-size="12" fill="{M}" text-anchor="end">{sum(vals)} contribuições em 12 meses</text>'
+    body = clip + grid + f'<g clip-path="url(#rv)">{chart}{marker}</g>' + right
+    return shell(840, 232, "Atividade no último ano", body)
 
 
 def main():
